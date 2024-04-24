@@ -1,4 +1,4 @@
-//Create web server
+// Create web server
 const express = require('express'); //import express
 const app = express(); //create express object
 const port = 3000; //port number
